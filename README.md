@@ -7,6 +7,12 @@ Simple random password generator
 go install github.com/redheo/genpass@latest
 ```
 
+## Install (git clone & make build)
+```
+git clone git@github.com:redheo/genpass.git
+cd genpass && make build
+```
+
 ## Usage
 ```
 NAME:
