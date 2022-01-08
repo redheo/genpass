@@ -1,4 +1,4 @@
-module genpass
+module github.com/redheo/genpass
 
 go 1.17
 

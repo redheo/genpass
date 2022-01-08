@@ -4,7 +4,7 @@ Simple random password generator
 
 ## Install
 ```
-make build
+go install github.com/redheo/genpass
 ```
 
 ## Usage
