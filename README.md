@@ -25,3 +25,4 @@ GLOBAL OPTIONS:
    --nospecial, -n  don't include special characters (default: false)
    --help, -h       show help (default: false)
 ```
+
